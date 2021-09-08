@@ -1,0 +1,40 @@
+{
+    "intention": [
+        {
+            "id": 1,
+            "anchor": "trust"
+        },
+        {
+            "id": 2,
+            "anchor": "stretch"
+        },
+        {
+            "id": 3,
+            "anchor": "salud"
+        },
+        {
+            "id": 4,
+            "anchor": "open"
+        },
+        {
+            "id": 5,
+            "anchor": "detox"
+        },
+        {
+            "id": 6,
+            "anchor": "soften"
+        },
+        {
+            "id": 7,
+            "anchor": "center"
+        },
+        {
+            "id": 8,
+            "anchor": "strength"
+        },
+        {
+            "id": 9,
+            "anchor": "listen"
+        }
+    ]
+}
