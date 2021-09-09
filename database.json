@@ -44,61 +44,61 @@
     "reflection": [
         {
             "id": 1,
-            "anchorId": 10,
+            "intentionId": 10,
             "date": "2021-08-02",
             "journey": "Find what feels good. Set your intention. Start where you are, not where you used to be. Flexibility takes time and that's okay."
         },
         {
             "id": 2,
-            "anchorId": 1,
+            "intentionId": 1,
             "date": "2021-08-03",
             "journey": "Trust really did end up suffucing this day. Trust that the adderall would have a good effect on my motivation; Trust my interview would got well; Trust in my ability to teach; Today felt internally calm and outwardly full. I really enjoyed it and want more."
         },
         {
             "id": 3,
-            "anchorId": 2,
+            "intentionId": 2,
             "date": "2021-08-06",
             "journey": "I love ywA so much. Her quiet words make me think all through the practice. I know ADHDers should work on persistence vs. consistence but I crave routine. I think it is a part of my autism's need for state. I'm trying to work ywA into my dailies but really I want it in my mornings."
         },
         {
             "id": 4,
-            "anchorId": 3,
+            "intentionId": 3,
             "date": "2021-08-17",
             "journey": "Focus on insight through repetition as I toast to intentional focus: exercise and movement help me feel less scattered. My yoga flexibility is increasing and that gives me warm fuzzies."
         },
         {
             "id": 5,
-            "anchorId": 4,
+            "intentionId": 4,
             "date": "2021-08-18",
             "journey": "What are you opening up to? Adventure. I have a Sup and Sip scheduled and I panicked. I was excited before, but lost it and considered cancelling. Stay open. Go on the adventure. Make a plan for it."
         },
         {
             "id": 6,
-            "anchorId": 5,
+            "intentionId": 5,
             "date": "2021-08-19",
             "journey": "I can really feel the benefits of this and see my progress in these practices. I'd hoped that this practice would loosen up my bowels and help me poop but I still needed a supository."
         },
         {
             "id": 7,
-            "anchorId": 6,
+            "intentionId": 6,
             "date": "2021-08-19",
             "journey": "I need the simple and shorter practices and this provided that. The need to poop pressure is a lot though."
         },
         {
             "id": 8,
-            "anchorId": 7,
+            "intentionId": 7,
             "date": "2021-08-26",
             "journey": "Finding inner support. It was really important to me to set today's tone for success. Right now is the right intensity for what I need."
         },
         {
             "id": 9,
-            "anchorId": 8,
+            "intentionId": 8,
             "date": "2021-08-26",
             "journey": "I really want to do yoga before work and during lunch and now that I have my meds, today felt like the right time to start trying. Center, strength, and Harmony. It really worked out today."
         },
         {
             "id": 10,
-            "anchorId": 9,
+            "intentionId": 9,
             "date": "2021-08-27",
             "journey": "It was really difficult to concentrate on such a slow and mild practice. I don't know how much was me and how much it being so slow. I didn't take my meds before and I felt it. I just want to have more focus in the evening so I'll try again tomorrow and see if a higher intensity helps my focus. If not I will need to rethink my goals and options."
         }
